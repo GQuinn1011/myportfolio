@@ -12,7 +12,7 @@ class Contact extends Component {
                    <img src={Avatar}
                 alt="MyPic"
                 style={{height: '250px'}}/>
-                <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Testing one two three test test one two three</p>
+                <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}></p>
                </Cell>
                <Cell col={6}>
                 <h2>Contact Me</h2> 
