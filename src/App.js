@@ -10,7 +10,6 @@ function App() {
     <Layout>
         <Header className='header-color' title={<Link style={{textDecoration: 'none', color: 'white'}} to='/'>Gabriel Quinn</Link>} scroll>
             <Navigation>
-                <Link to="/about">About</Link>
                 <Link to="/contact">Contact</Link>
                 <Link to="/projects">Projects</Link>
                 <a className='linked' href="https://www.linkedin.com/in/gabriel-quinn-425453192/" rel='noopener noreferrer' target='_blank' >
@@ -23,7 +22,6 @@ function App() {
         </Header>
         <Drawer title={<Link style={{textDecoration: 'none', color: 'black'}} to='/'>My Portfolio</Link>}>
             <Navigation>
-                <Link to="/about">About</Link>
                 <Link to="/contact">Contact</Link>
                 <Link to="/projects">Projects</Link>
                 <hr/>
