@@ -82,7 +82,7 @@ class Projects extends Component {
                         <a href="https://github.com/GQuinn1011/Firebase-Train-Schedule" rel='noopener noreferrer' target='_blank'>GitHub</a>
                         </Button>
                         <Button colored>
-                            <a href="https://gquinn1011.github.io/Firebase-Train-Schedule/" rel='noopener noreferrer' target='_blank'>Live Demo</a>
+                            <a href="http://gquinn1011.github.io/Train-Scheduler" rel='noopener noreferrer' target='_blank'>Live Demo</a>
                             </Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
@@ -102,7 +102,7 @@ class Projects extends Component {
                         <a href="https://github.com/GQuinn1011/Clicky-Game" rel='noopener noreferrer' target='_blank'>GitHub</a>
                         </Button>
                         <Button colored>
-                            <a href="https://frozen-hollows-25642.herokuapp.com/" rel='noopener noreferrer' target='_blank'>Live Demo</a>
+                            <a href="http://officeclickgame.herokuapp.com" rel='noopener noreferrer' target='_blank'>Live Demo</a>
                             </Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
@@ -146,10 +146,10 @@ class Projects extends Component {
                         <a href="https://github.com/GQuinn1011/Project-Time-Capture" rel='noopener noreferrer' target='_blank'>GitHub</a>
                         </Button>
                         <Button colored>
-                            <a href="https://secure-ocean-83154.herokuapp.com/" rel='noopener noreferrer' target='_blank'>Live Demo Front End</a>
+                            <a href="http://ptcg4p3.herokuapp.com" rel='noopener noreferrer' target='_blank'>Live Demo Front End</a>
                             </Button>
                             <Button colored>
-                            <a href="https://secure-ocean-83154.herokuapp.com/admin" rel='noopener noreferrer' target='_blank'>Live Demo Back End/Admin</a>
+                            <a href="http://ptcg4p3.herokuapp.com/admin" rel='noopener noreferrer' target='_blank'>Live Demo Back End/Admin</a>
                             </Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
