@@ -53,6 +53,13 @@
     padding: 1em;
 }
 
+.about {
+    color: white;
+    font-size: 20px;
+    padding: 1em;
+    text-align: left;
+}
+
 .social-links {
     width: 100%;
     margin: auto;
