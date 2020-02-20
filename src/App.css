@@ -83,7 +83,6 @@
 
 .contact-body {
     margin: auto;
-    position: fixed;
     width: 100%;
     height: 100%;
     justify-content: center;
@@ -99,6 +98,10 @@
     opacity: .8;
     color: white;
     margin-bottom: 20px;
+}
+
+.contact-grid img {
+    height: 250px;
 }
 
 .contact-grid h2 {
@@ -154,5 +157,58 @@
 @media only screen and (max-width: 900px) {
     .projects-grid {
         flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .contact-body {
+        background-color: black;
+        color: white;
+        justify-content: center;
+    }
+    .contact-grid h2 {
+        font-size: 30px;
+    }
+    .contact-grid img {
+        width: 60%;
+        height: 60%;
+    }
+    .contact-list {
+        align-content: center;
+    }
+    .contact-list i {
+        font-size: 24px;
+        padding-right: 1em;
+        align-content: center;
+    }
+    .contact-list a {
+        font-size: 18px;
+    }
+    .mdl-layout__content {
+        background-color: black;
+    }
+    .material-icons {
+        color: white;
+    }
+    .banner-text {
+        width: 99%;
+        margin: 1px;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .avatar-img {
+        height: 125px;
+    }
+    .banner-text h1 {
+        font-size: 36px;
+    }
+    .banner-text h3 {
+        font-size: 24px;
+    }
+    .banner-text p {
+        font-size: 16px;
+    }
+    .mdl-layout__header-row {
+        display: grid;
     }
 }

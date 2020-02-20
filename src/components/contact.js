@@ -11,7 +11,8 @@ class Contact extends Component {
                    <h2>Gabriel Quinn</h2>
                    <img src={Avatar}
                 alt="MyPic"
-                style={{height: '250px'}}/>
+                // style={{height: '250px'}}
+                />
                 <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}></p>
                </Cell>
                <Cell col={6}>
