@@ -17,6 +17,8 @@ class Landing extends Component {
                             <h1>Gabriel Quinn</h1>
                             <hr/>
                             <h3>Full Stack Web Developer</h3>
+                            <p>Full Stack Developer, US Air Force Veteran and recent graduate of the rigorous Rutgers University Coding Boot Camp. My goal is to flourish in the computer science industry. Analytical/technical by nature always looking outside the box for a creative solution to a problem.  My training and experience honed my ability to anticipate and pivot accordingly. Adaptable with the ability to work as a team or independently - keenly aware of the importance of effective communication.</p>
+                            <hr/>
                             <p>HTML/CSS | JavaScript | NodeJS | Express | MySQL | MongoDB | React</p>
                             <hr/>
                             <p></p>
